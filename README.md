@@ -1,4 +1,6 @@
-![JavascriptI](/assets/img/banner.png)
+<p align="center">
+  <img src="/assets/img/banner.png" />
+</p>
 
 # Lógica de programação I
 
