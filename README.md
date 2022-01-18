@@ -2,8 +2,6 @@
   <img src="/assets/img/banner.png" />
 </p>
 
-# Lógica de programação I
-
 ## Os primeiros programas com Javascript e HTML
 
 -   Primeiros passos de maneira prática na programação com JavaScript no seu Navegador
