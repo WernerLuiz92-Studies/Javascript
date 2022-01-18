@@ -1,4 +1,4 @@
-![JavascriptI](/assets/img/logo.svg)
+![JavascriptI](/assets/img/banner.png)
 
 # Lógica de programação I
 
