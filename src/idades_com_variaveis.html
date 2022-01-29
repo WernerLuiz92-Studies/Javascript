@@ -1,16 +1,19 @@
 <meta charset="UTF-8" />
 <script>
     var year = 2022;
+    var idadeWerner = year - 1992;
+    var idadeAmanda = year - 1993;
+    var idadePrincesa = year - 2016;
 
-    document.write("Werner tem " + (year - 1992) + " anos de idade.");
+    document.write("Werner tem " + idadeWerner + " anos de idade.");
     document.write("<br>");
-    document.write("Amanda tem " + (year - 1993) + " anos de idade.");
+    document.write("Amanda tem " + idadeAmanda + " anos de idade.");
     document.write("<br>");
-    document.write("Princesa tem " + (year - 2016) + " anos de idade.");
+    document.write("Princesa tem " + idadePrincesa + " anos de idade.");
     document.write("<br>");
     document.write("<br>");
 
-    var media = (year - 1992 + (year - 1993) + (year - 2016)) / 3;
+    var media = (idadeWerner + idadeAmanda + idadePrincesa) / 3;
 
     document.write("A média das idades é " + Math.round(media) + " anos.");
     document.write("<br>---------------<br>");
